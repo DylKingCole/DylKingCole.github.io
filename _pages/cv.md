@@ -16,20 +16,14 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* February 2019 - Current: Systems Technician at Wired AVS
+  Duties included: Installation and integration of 3rd party product systems for Network Management, security, access, lighting, AV, HVAC. Perform on-site and off-site diagnostics to ensure optimal system performance. Provide support and training to non-technical end-users. Collaborate with project management and other departments to coordinate system deployments. Maintain service records, inventory logs, and documentation for managed integration systems.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2019 - May 2020: Data Engineering Intern at IPT Lafayette
+  Duties included: Assist senior staffe in implementation of data pipelines. Support in the integration of APIs and data resources. Participated in data modelling and quality management for testing and ensuring scalability of products. Gained exposure to cloud platforms like AWS and Azure. Used Git for version control.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2013 - July 2021: Music Teacher at Guitar Center Lafayette
+  Duties included: Provide 
   
 Skills
 ======
