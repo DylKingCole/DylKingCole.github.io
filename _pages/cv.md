@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Biostatistics, University of Louisville, 2024
+* B.M. in Theory and Composition, University of Louisiana at Lafayette, 2016
 
 Work experience
 ======
